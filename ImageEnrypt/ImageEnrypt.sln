@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEnrypt", "ImageEnrypt\ImageEnrypt.csproj", "{B7C82C6A-8216-4855-833A-B43DCD3FCF6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageEnrypt", "ImageEnrypt\ImageEnrypt.csproj", "{B7C82C6A-8216-4855-833A-B43DCD3FCF6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CypherImage", "CypherImage\CypherImage.csproj", "{6046CDB4-6A9F-402D-B4E9-6E8043F8B75D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CypherImage", "CypherImage\CypherImage.csproj", "{6046CDB4-6A9F-402D-B4E9-6E8043F8B75D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

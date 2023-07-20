@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj": {}
+    "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\ImageEnrypt\\CypherImage\\CypherImage.csproj": {
+    "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\CypherImage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
+        "projectUniqueName": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
         "projectName": "CypherImage",
-        "projectPath": "D:\\New folder\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
+        "projectPath": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
         "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\ImageEnrypt\\CypherImage\\obj\\",
+        "outputPath": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\New folder\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj": {
+    "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj",
+        "projectUniqueName": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj",
         "projectName": "ImageEnrypt",
-        "projectPath": "D:\\New folder\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj",
+        "projectPath": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj",
         "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\ImageEnrypt\\ImageEnrypt\\obj\\",
+        "outputPath": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\ImageEnrypt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\New folder\\ImageEnrypt\\CypherImage\\CypherImage.csproj": {
-                "projectPath": "D:\\New folder\\ImageEnrypt\\CypherImage\\CypherImage.csproj"
+              "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\CypherImage.csproj": {
+                "projectPath": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\CypherImage.csproj"
               }
             }
           }

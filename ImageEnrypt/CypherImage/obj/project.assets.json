@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
+      "projectUniqueName": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
       "projectName": "CypherImage",
-      "projectPath": "D:\\New folder\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
+      "projectPath": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\CypherImage.csproj",
       "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\ImageEnrypt\\CypherImage\\obj\\",
+      "outputPath": "D:\\Git Projects\\Rohan's Projects\\CypherImage\\ImageEnrypt\\CypherImage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",

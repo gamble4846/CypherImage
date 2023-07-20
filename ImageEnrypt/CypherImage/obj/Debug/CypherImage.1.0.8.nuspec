@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CypherImage</id>
+    <version>1.0.8</version>
+    <title>EasyCrudLibrary</title>
+    <authors>Rohan Patel</authors>
+    <icon>Icon.png</icon>
+    <projectUrl>https://github.com/gamble4846/EasyCrudLibrary.git</projectUrl>
+    <description>EasyCrudLibrary is a comprehensive and user-friendly NuGet library designed to streamline CRUD (Create, Read, Update, Delete) operations on SQL databases. This library offers a convenient and efficient way for developers to interact with their SQL databases, minimizing the complexity and repetitive tasks typically associated with database management.</description>
+    <tags>CRUD, SQL</tags>
+    <repository url="https://github.com/gamble4846/EasyCrudLibrary.git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="System.Drawing.Common" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\bin\Debug\net6.0\CypherImage.dll" target="lib\net6.0\CypherImage.dll" />
+  </files>
+</package>

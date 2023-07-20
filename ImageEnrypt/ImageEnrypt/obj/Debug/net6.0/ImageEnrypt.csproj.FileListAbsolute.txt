@@ -20,3 +20,25 @@ D:\New folder\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\refint\ImageEnrypt.dll
 D:\New folder\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.pdb
 D:\New folder\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.genruntimeconfig.cache
 D:\New folder\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ref\ImageEnrypt.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\ImageEnrypt.exe
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\ImageEnrypt.deps.json
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\ImageEnrypt.runtimeconfig.json
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\ImageEnrypt.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\ImageEnrypt.pdb
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\CypherImage.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\bin\Debug\net6.0\CypherImage.pdb
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.csproj.AssemblyReference.cache
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.AssemblyInfoInputs.cache
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.AssemblyInfo.cs
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.csproj.CoreCompileInputs.cache
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.csproj.CopyComplete
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\refint\ImageEnrypt.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.pdb
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ImageEnrypt.genruntimeconfig.cache
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\ImageEnrypt\obj\Debug\net6.0\ref\ImageEnrypt.dll

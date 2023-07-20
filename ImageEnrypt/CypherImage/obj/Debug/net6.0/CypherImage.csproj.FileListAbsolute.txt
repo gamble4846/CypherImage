@@ -10,3 +10,15 @@ D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.dll
 D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\refint\CypherImage.dll
 D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.pdb
 D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\ref\CypherImage.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\bin\Debug\net6.0\CypherImage.deps.json
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\bin\Debug\net6.0\CypherImage.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\bin\Debug\net6.0\CypherImage.pdb
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.csproj.AssemblyReference.cache
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.AssemblyInfoInputs.cache
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.AssemblyInfo.cs
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.csproj.CoreCompileInputs.cache
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\refint\CypherImage.dll
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.pdb
+D:\Git Projects\Rohan's Projects\CypherImage\ImageEnrypt\CypherImage\obj\Debug\net6.0\ref\CypherImage.dll
