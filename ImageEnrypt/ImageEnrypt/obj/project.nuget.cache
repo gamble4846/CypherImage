@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJR1HCbtXz3X/ksgevXrFe9WuOYS49mOZc6063YsxQqTXZKUFBTDQoGFLZdwFiquXNlxOpwheH65tVQbvjtDbQ==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\ImageEnrypt\\ImageEnrypt\\ImageEnrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chint\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\chint\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\New folder\ImageEnrypt\CypherImage\bin\Debug\net6.0\CypherImage.deps.json
+D:\New folder\ImageEnrypt\CypherImage\bin\Debug\net6.0\CypherImage.dll
+D:\New folder\ImageEnrypt\CypherImage\bin\Debug\net6.0\CypherImage.pdb
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.csproj.AssemblyReference.cache
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.AssemblyInfoInputs.cache
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.AssemblyInfo.cs
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.csproj.CoreCompileInputs.cache
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.dll
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\refint\CypherImage.dll
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\CypherImage.pdb
+D:\New folder\ImageEnrypt\CypherImage\obj\Debug\net6.0\ref\CypherImage.dll
