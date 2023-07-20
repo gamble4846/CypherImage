@@ -49,7 +49,7 @@
           }
         }
       },
-      "CypherImage/1.0.0": {
+      "CypherImage/1.0.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -133,7 +133,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "CypherImage/1.0.0": {
+    "CypherImage/1.0.2": {
       "type": "project",
       "path": "../CypherImage/CypherImage.csproj",
       "msbuildProject": "../CypherImage/CypherImage.csproj"
@@ -141,7 +141,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CypherImage >= 1.0.0"
+      "CypherImage >= 1.0.2"
     ]
   },
   "packageFolders": {

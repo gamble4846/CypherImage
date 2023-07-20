@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -6,10 +6,11 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>CypherImage</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.2</Version>
     <Description>CypherImage is an advanced and user-friendly NuGet package designed to bolster image security through encryption. This powerful package empowers developers to safeguard images by converting them into a secure and unreadable format, making unauthorized access virtually impossible.</Description>
     <PackageProjectUrl>https://github.com/gamble4846/CypherImage</PackageProjectUrl>
-    <!--<PackageIcon>Icon.png</PackageIcon>-->
+    <PackageIcon>Icon.png</PackageIcon>
+    <iconUrl>https://i.imgur.com/eJCh4iQ.png</iconUrl>
     <RepositoryUrl>https://github.com/gamble4846/CypherImage</RepositoryUrl>
     <PackageTags>CypherImage, Cypher, Image, Encryption, Decryption</PackageTags>
     <Authors>Rohan Patel</Authors>
@@ -17,6 +18,10 @@
 
   <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
 </Project>
