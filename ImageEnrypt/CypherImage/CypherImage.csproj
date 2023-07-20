@@ -6,8 +6,8 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>CypherImage</Title>
-    <Version>1.0.2</Version>
-    <Description>CypherImage is an advanced and user-friendly NuGet package designed to bolster image security through encryption. This powerful package empowers developers to safeguard images by converting them into a secure and unreadable format, making unauthorized access virtually impossible.</Description>
+    <Version>1.0.3</Version>
+    <Description>CypherImage shuffels the pixels of an image and generates another image using a key, which can than be converted to original using the same key</Description>
     <PackageProjectUrl>https://github.com/gamble4846/CypherImage</PackageProjectUrl>
     <PackageIcon>Icon.png</PackageIcon>
     <iconUrl>https://i.imgur.com/eJCh4iQ.png</iconUrl>
@@ -23,5 +23,4 @@
   <ItemGroup>
     <None Include="Icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
-
 </Project>

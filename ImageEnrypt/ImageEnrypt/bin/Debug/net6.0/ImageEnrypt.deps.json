@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "ImageEnrypt/1.0.0": {
         "dependencies": {
-          "CypherImage": "1.0.2"
+          "CypherImage": "1.0.3"
         },
         "runtime": {
           "ImageEnrypt.dll": {}
@@ -49,7 +49,7 @@
           }
         }
       },
-      "CypherImage/1.0.2": {
+      "CypherImage/1.0.3": {
         "dependencies": {
           "System.Drawing.Common": "7.0.0"
         },
@@ -79,7 +79,7 @@
       "path": "system.drawing.common/7.0.0",
       "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
     },
-    "CypherImage/1.0.2": {
+    "CypherImage/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
